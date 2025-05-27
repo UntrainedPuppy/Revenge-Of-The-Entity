@@ -1,6 +1,6 @@
 {
-	"Name": "Revenge Of The Entity V6",
-	"Version": 1747937221,
+	"Name": "Revenge Of The Entity V7",
+	"Version": 1748388453,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -388,6 +388,7 @@
 				"55",
 				"57",
 				"61",
+				"65",
 				"67",
 				"69",
 				"76",
@@ -551,6 +552,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -622,6 +624,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -855,6 +858,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -919,6 +923,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -988,6 +993,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1061,6 +1067,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1134,6 +1141,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1203,6 +1211,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1268,6 +1277,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1337,6 +1347,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1409,7 +1420,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1473,6 +1485,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1544,6 +1557,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1615,6 +1629,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1687,6 +1702,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1756,6 +1772,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1829,6 +1846,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1900,6 +1918,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2064,6 +2083,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2210,6 +2230,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2280,7 +2301,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -2347,6 +2369,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2410,6 +2433,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2479,6 +2503,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2553,6 +2578,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2624,6 +2650,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2687,6 +2714,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2762,6 +2790,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2833,6 +2862,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2904,6 +2934,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2977,6 +3008,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -3050,6 +3082,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -3126,6 +3159,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -3205,6 +3239,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
@@ -3281,6 +3316,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
+				5,
 				6
 			],
 			"KillerOfferings": [
